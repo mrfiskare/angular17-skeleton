@@ -2,9 +2,10 @@
 
 ## Description
 
-This app was created the test the brand new _(and currently experimental)_ Angular
-Material 3 with the new Material You design language. Additionally, the project can
-be compiled into a single JavaScript file _(Angular Element / Webcomponent)_.
+This app was created to serve as an Angular 17 skeleton for my future projects.
+
+It has the basics set up, such as gitignore, routing, Angular Material, Bootstrap, Prettier etc.
+Additionally, the project can be compiled into a single JavaScript file _(Angular Element / Webcomponent)_.
 
 
 ## Requirements:
